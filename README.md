@@ -1,5 +1,5 @@
 # Portfolio Benchmark
-Basic Python script that forms a dynamic porfolio by reading in stock transactions from a file. This profits and losses of this portfolio are then compared to the profits and losses of the chosen benchmark (by default this is set to SPY).
+Basic Python script that forms a dynamic porfolio by reading in stock transactions from a file. The profits and losses of this portfolio are then compared to the profits and losses of the chosen benchmark (by default this is set to SPY).
 
 The following is an example of the input for P.csv:
 ```
